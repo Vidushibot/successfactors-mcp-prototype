@@ -1,0 +1,29 @@
+services:
+  mcp:
+    build: .
+    command: python -m sf_mcp_poc.mcp_server
+    env_file: .env
+    environment: ["MCP_HOST=0.0.0.0"]
+    ports: ["127.0.0.1:8001:8001"]
+    volumes: ["audit-data:/app/data"]
+  api:
+    build: .
+    command: python -m sf_mcp_poc.main
+    env_file: .env
+    environment: ["API_HOST=0.0.0.0"]
+    ports: ["127.0.0.1:8000:8000"]
+    volumes: ["audit-data:/app/data"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+  ui:
+    build: .
+    command: python -m streamlit run src/sf_mcp_poc/streamlit_app.py --server.address 0.0.0.0 --server.port 8501
+    environment: ["API_URL=http://api:8000"]
+    ports: ["127.0.0.1:8501:8501"]
+    depends_on: [api]
+volumes:
+  audit-data:
+# Development-only composition; not production hardened.

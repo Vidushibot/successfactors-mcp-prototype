@@ -1,0 +1,404 @@
+{
+  "PerNationalId": [
+    {
+      "personIdExternal": "E1001",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000000",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1002",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000001",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1003",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000002",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1004",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000003",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1005",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000004",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1006",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000005",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1007",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000006",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1008",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000007",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1009",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000008",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1010",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000009",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1011",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000010",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1012",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000011",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1013",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000012",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1014",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000013",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1015",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000014",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1016",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000015",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1017",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000016",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1018",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000017",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1019",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000018",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1020",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000019",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1021",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000020",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1022",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000021",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1023",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000022",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1024",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000023",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1025",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000024",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1026",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000025",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1027",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000026",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1028",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000027",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1029",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000028",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1030",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000029",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1031",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000030",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1032",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000031",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1033",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000032",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1034",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000033",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1035",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000034",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1036",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000035",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1037",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000036",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1038",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000037",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1039",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000038",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1040",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000039",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1041",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000040",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1042",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000041",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1043",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000042",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1044",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000043",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1045",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000044",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1046",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000045",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1047",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000046",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1048",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000047",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1049",
+      "country": "CAN",
+      "cardType": "SIN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000048",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    },
+    {
+      "personIdExternal": "E1050",
+      "country": "USA",
+      "cardType": "SSN",
+      "nationalId": "SYNTHETIC-DO-NOT-USE-100000049",
+      "isPrimary": true,
+      "effectiveStartDate": "2020-01-01"
+    }
+  ]
+}

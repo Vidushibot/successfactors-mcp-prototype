@@ -1,0 +1,1410 @@
+{
+  "FOCompany": [
+    {
+      "code": "C100",
+      "name": "Fictional FOCompany C100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C200",
+      "name": "Fictional FOCompany C200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C300",
+      "name": "Fictional FOCompany C300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C400",
+      "name": "Fictional FOCompany C400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C500",
+      "name": "Fictional FOCompany C500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C600",
+      "name": "Fictional FOCompany C600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C700",
+      "name": "Fictional FOCompany C700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C800",
+      "name": "Fictional FOCompany C800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C900",
+      "name": "Fictional FOCompany C900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1000",
+      "name": "Fictional FOCompany C1000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1100",
+      "name": "Fictional FOCompany C1100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1200",
+      "name": "Fictional FOCompany C1200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1300",
+      "name": "Fictional FOCompany C1300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1400",
+      "name": "Fictional FOCompany C1400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1500",
+      "name": "Fictional FOCompany C1500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1600",
+      "name": "Fictional FOCompany C1600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1700",
+      "name": "Fictional FOCompany C1700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1800",
+      "name": "Fictional FOCompany C1800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C1900",
+      "name": "Fictional FOCompany C1900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2000",
+      "name": "Fictional FOCompany C2000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2100",
+      "name": "Fictional FOCompany C2100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2200",
+      "name": "Fictional FOCompany C2200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2300",
+      "name": "Fictional FOCompany C2300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2400",
+      "name": "Fictional FOCompany C2400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2500",
+      "name": "Fictional FOCompany C2500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2600",
+      "name": "Fictional FOCompany C2600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2700",
+      "name": "Fictional FOCompany C2700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2800",
+      "name": "Fictional FOCompany C2800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C2900",
+      "name": "Fictional FOCompany C2900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3000",
+      "name": "Fictional FOCompany C3000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3100",
+      "name": "Fictional FOCompany C3100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3200",
+      "name": "Fictional FOCompany C3200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3300",
+      "name": "Fictional FOCompany C3300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3400",
+      "name": "Fictional FOCompany C3400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3500",
+      "name": "Fictional FOCompany C3500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3600",
+      "name": "Fictional FOCompany C3600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3700",
+      "name": "Fictional FOCompany C3700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3800",
+      "name": "Fictional FOCompany C3800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C3900",
+      "name": "Fictional FOCompany C3900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4000",
+      "name": "Fictional FOCompany C4000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4100",
+      "name": "Fictional FOCompany C4100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4200",
+      "name": "Fictional FOCompany C4200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4300",
+      "name": "Fictional FOCompany C4300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4400",
+      "name": "Fictional FOCompany C4400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4500",
+      "name": "Fictional FOCompany C4500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4600",
+      "name": "Fictional FOCompany C4600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4700",
+      "name": "Fictional FOCompany C4700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4800",
+      "name": "Fictional FOCompany C4800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C4900",
+      "name": "Fictional FOCompany C4900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "C5000",
+      "name": "Fictional FOCompany C5000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    }
+  ],
+  "FOBusinessUnit": [
+    {
+      "code": "BU100",
+      "name": "Fictional FOBusinessUnit BU100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU200",
+      "name": "Fictional FOBusinessUnit BU200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU300",
+      "name": "Fictional FOBusinessUnit BU300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU400",
+      "name": "Fictional FOBusinessUnit BU400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU500",
+      "name": "Fictional FOBusinessUnit BU500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU600",
+      "name": "Fictional FOBusinessUnit BU600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU700",
+      "name": "Fictional FOBusinessUnit BU700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU800",
+      "name": "Fictional FOBusinessUnit BU800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU900",
+      "name": "Fictional FOBusinessUnit BU900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1000",
+      "name": "Fictional FOBusinessUnit BU1000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1100",
+      "name": "Fictional FOBusinessUnit BU1100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1200",
+      "name": "Fictional FOBusinessUnit BU1200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1300",
+      "name": "Fictional FOBusinessUnit BU1300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1400",
+      "name": "Fictional FOBusinessUnit BU1400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1500",
+      "name": "Fictional FOBusinessUnit BU1500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1600",
+      "name": "Fictional FOBusinessUnit BU1600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1700",
+      "name": "Fictional FOBusinessUnit BU1700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1800",
+      "name": "Fictional FOBusinessUnit BU1800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU1900",
+      "name": "Fictional FOBusinessUnit BU1900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2000",
+      "name": "Fictional FOBusinessUnit BU2000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2100",
+      "name": "Fictional FOBusinessUnit BU2100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2200",
+      "name": "Fictional FOBusinessUnit BU2200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2300",
+      "name": "Fictional FOBusinessUnit BU2300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2400",
+      "name": "Fictional FOBusinessUnit BU2400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2500",
+      "name": "Fictional FOBusinessUnit BU2500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2600",
+      "name": "Fictional FOBusinessUnit BU2600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2700",
+      "name": "Fictional FOBusinessUnit BU2700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2800",
+      "name": "Fictional FOBusinessUnit BU2800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU2900",
+      "name": "Fictional FOBusinessUnit BU2900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3000",
+      "name": "Fictional FOBusinessUnit BU3000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3100",
+      "name": "Fictional FOBusinessUnit BU3100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3200",
+      "name": "Fictional FOBusinessUnit BU3200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3300",
+      "name": "Fictional FOBusinessUnit BU3300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3400",
+      "name": "Fictional FOBusinessUnit BU3400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3500",
+      "name": "Fictional FOBusinessUnit BU3500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3600",
+      "name": "Fictional FOBusinessUnit BU3600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3700",
+      "name": "Fictional FOBusinessUnit BU3700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3800",
+      "name": "Fictional FOBusinessUnit BU3800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU3900",
+      "name": "Fictional FOBusinessUnit BU3900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4000",
+      "name": "Fictional FOBusinessUnit BU4000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4100",
+      "name": "Fictional FOBusinessUnit BU4100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4200",
+      "name": "Fictional FOBusinessUnit BU4200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4300",
+      "name": "Fictional FOBusinessUnit BU4300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4400",
+      "name": "Fictional FOBusinessUnit BU4400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4500",
+      "name": "Fictional FOBusinessUnit BU4500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4600",
+      "name": "Fictional FOBusinessUnit BU4600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4700",
+      "name": "Fictional FOBusinessUnit BU4700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4800",
+      "name": "Fictional FOBusinessUnit BU4800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU4900",
+      "name": "Fictional FOBusinessUnit BU4900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "BU5000",
+      "name": "Fictional FOBusinessUnit BU5000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    }
+  ],
+  "FODivision": [
+    {
+      "code": "DV100",
+      "name": "Fictional FODivision DV100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV200",
+      "name": "Fictional FODivision DV200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV300",
+      "name": "Fictional FODivision DV300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV400",
+      "name": "Fictional FODivision DV400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV500",
+      "name": "Fictional FODivision DV500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV600",
+      "name": "Fictional FODivision DV600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV700",
+      "name": "Fictional FODivision DV700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV800",
+      "name": "Fictional FODivision DV800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV900",
+      "name": "Fictional FODivision DV900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1000",
+      "name": "Fictional FODivision DV1000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1100",
+      "name": "Fictional FODivision DV1100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1200",
+      "name": "Fictional FODivision DV1200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1300",
+      "name": "Fictional FODivision DV1300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1400",
+      "name": "Fictional FODivision DV1400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1500",
+      "name": "Fictional FODivision DV1500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1600",
+      "name": "Fictional FODivision DV1600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1700",
+      "name": "Fictional FODivision DV1700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1800",
+      "name": "Fictional FODivision DV1800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV1900",
+      "name": "Fictional FODivision DV1900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2000",
+      "name": "Fictional FODivision DV2000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2100",
+      "name": "Fictional FODivision DV2100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2200",
+      "name": "Fictional FODivision DV2200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2300",
+      "name": "Fictional FODivision DV2300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2400",
+      "name": "Fictional FODivision DV2400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2500",
+      "name": "Fictional FODivision DV2500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2600",
+      "name": "Fictional FODivision DV2600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2700",
+      "name": "Fictional FODivision DV2700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2800",
+      "name": "Fictional FODivision DV2800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV2900",
+      "name": "Fictional FODivision DV2900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3000",
+      "name": "Fictional FODivision DV3000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3100",
+      "name": "Fictional FODivision DV3100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3200",
+      "name": "Fictional FODivision DV3200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3300",
+      "name": "Fictional FODivision DV3300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3400",
+      "name": "Fictional FODivision DV3400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3500",
+      "name": "Fictional FODivision DV3500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3600",
+      "name": "Fictional FODivision DV3600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3700",
+      "name": "Fictional FODivision DV3700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3800",
+      "name": "Fictional FODivision DV3800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV3900",
+      "name": "Fictional FODivision DV3900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4000",
+      "name": "Fictional FODivision DV4000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4100",
+      "name": "Fictional FODivision DV4100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4200",
+      "name": "Fictional FODivision DV4200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4300",
+      "name": "Fictional FODivision DV4300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4400",
+      "name": "Fictional FODivision DV4400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4500",
+      "name": "Fictional FODivision DV4500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4600",
+      "name": "Fictional FODivision DV4600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4700",
+      "name": "Fictional FODivision DV4700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4800",
+      "name": "Fictional FODivision DV4800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV4900",
+      "name": "Fictional FODivision DV4900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "DV5000",
+      "name": "Fictional FODivision DV5000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    }
+  ],
+  "FODepartment": [
+    {
+      "code": "D100",
+      "name": "Fictional FODepartment D100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D200",
+      "name": "Fictional FODepartment D200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D300",
+      "name": "Fictional FODepartment D300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D400",
+      "name": "Fictional FODepartment D400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D500",
+      "name": "Fictional FODepartment D500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D600",
+      "name": "Fictional FODepartment D600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D700",
+      "name": "Fictional FODepartment D700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D800",
+      "name": "Fictional FODepartment D800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D900",
+      "name": "Fictional FODepartment D900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1000",
+      "name": "Fictional FODepartment D1000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1100",
+      "name": "Fictional FODepartment D1100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1200",
+      "name": "Fictional FODepartment D1200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1300",
+      "name": "Fictional FODepartment D1300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1400",
+      "name": "Fictional FODepartment D1400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1500",
+      "name": "Fictional FODepartment D1500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1600",
+      "name": "Fictional FODepartment D1600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1700",
+      "name": "Fictional FODepartment D1700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1800",
+      "name": "Fictional FODepartment D1800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D1900",
+      "name": "Fictional FODepartment D1900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2000",
+      "name": "Fictional FODepartment D2000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2100",
+      "name": "Fictional FODepartment D2100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2200",
+      "name": "Fictional FODepartment D2200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2300",
+      "name": "Fictional FODepartment D2300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2400",
+      "name": "Fictional FODepartment D2400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2500",
+      "name": "Fictional FODepartment D2500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2600",
+      "name": "Fictional FODepartment D2600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2700",
+      "name": "Fictional FODepartment D2700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2800",
+      "name": "Fictional FODepartment D2800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D2900",
+      "name": "Fictional FODepartment D2900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3000",
+      "name": "Fictional FODepartment D3000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3100",
+      "name": "Fictional FODepartment D3100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3200",
+      "name": "Fictional FODepartment D3200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3300",
+      "name": "Fictional FODepartment D3300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3400",
+      "name": "Fictional FODepartment D3400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3500",
+      "name": "Fictional FODepartment D3500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3600",
+      "name": "Fictional FODepartment D3600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3700",
+      "name": "Fictional FODepartment D3700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3800",
+      "name": "Fictional FODepartment D3800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D3900",
+      "name": "Fictional FODepartment D3900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4000",
+      "name": "Fictional FODepartment D4000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4100",
+      "name": "Fictional FODepartment D4100",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4200",
+      "name": "Fictional FODepartment D4200",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4300",
+      "name": "Fictional FODepartment D4300",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4400",
+      "name": "Fictional FODepartment D4400",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4500",
+      "name": "Fictional FODepartment D4500",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4600",
+      "name": "Fictional FODepartment D4600",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4700",
+      "name": "Fictional FODepartment D4700",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4800",
+      "name": "Fictional FODepartment D4800",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D4900",
+      "name": "Fictional FODepartment D4900",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    },
+    {
+      "code": "D5000",
+      "name": "Fictional FODepartment D5000",
+      "status": "A",
+      "effectiveStartDate": "2020-01-01",
+      "effectiveEndDate": "9999-12-31"
+    }
+  ]
+}

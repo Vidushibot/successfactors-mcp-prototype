@@ -1,0 +1,29 @@
+.env
+.venv/
+*.db
+*.sqlite*
+*.pem
+*.key
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+data/
+# Secrets
+.streamlit/secrets.toml
+
+# Generated document QA files
+.docx_render/
+.multi_agent_render/
+
+# Local logs and coverage
+*.log
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+.idea/
